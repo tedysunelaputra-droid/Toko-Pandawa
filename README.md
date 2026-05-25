@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Toko Pandawa
 
-# Run and deploy your AI Studio app
+Website manajemen toko untuk pencatatan transaksi harian, pengelolaan stok, dan laporan penjualan.
 
-This contains everything you need to run your app locally.
+## Fitur Utama
+- Dashboard laporan harian (omzet, keuntungan, barang masuk/keluar).
+- Manajemen data barang (stok, harga modal, harga jual).
+- Input transaksi stok masuk dan barang terjual.
+- Modul penjualan khusus (bensin dan beras).
+- Laporan bulanan otomatis.
 
-View your app in AI Studio: https://ai.studio/apps/02a71bfe-f86f-497a-b462-a91412d35c30
+## Cara Menjalankan Project
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
