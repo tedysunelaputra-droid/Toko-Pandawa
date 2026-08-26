@@ -2,5 +2,4 @@
   "name": "Toko Pandawa",
   "description": "Aplikasi Toko Pandawa dengan dashboard ketersediaan barang, input transaksi stok, serta pencatatan penjualan bensin botolan dan beras.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
